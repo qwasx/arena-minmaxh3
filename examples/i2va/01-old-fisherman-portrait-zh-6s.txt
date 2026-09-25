@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, the weathered elderly fisherman shown in <Picture 1> remains at the bow of his small wooden boat, preserving his sun-darkened face, grey stubble, faded blue cap, orange waterproof jacket, the coiled rope in his hands, and the golden evening light coming from the right side of the frame. Starting from the pose in the image, he tightens one loop of the rope, then lifts his head toward the camera; the camera pushes in with small amplitude at slow speed from a medium shot toward a medium close-up. The boat rocks gently and the horizon behind him tilts slightly with each swell. The old fisherman with a hoarse, warm, unhurried voice (S1) smiles and says: <d>[Chinese] 今天风平浪静，出海咯。</d> He tugs the cap lower over his brow and turns back toward the open sea as the shot ends.
+
+overall_soundscape: Small waves slap steadily against the wooden hull while the boat creaks with each roll. Gulls call intermittently in the distance, the rope fibers rasp as he tightens the loop, and a light breeze brushes past the camera.
+
+non_diegetic_music: N/A

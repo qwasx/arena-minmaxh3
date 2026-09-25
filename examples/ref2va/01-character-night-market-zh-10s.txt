@@ -1,0 +1,20 @@
+subject_definitions:
+<Subject 1> is the young woman whose appearance comes from <Picture 1>, <Picture 2>, and <Picture 3>: a small dark mole just below the outer corner of her left eye, straight black hair cut bluntly at the collarbone with a fringe trimmed to the eyebrows, thin gold hoop earrings, a cream knit cardigan worn open over a white T-shirt, and short unpainted nails.
+<Subject 2> is the night-market environment in <Picture 4>, featuring a narrow lane of food stalls under strings of warm yellow bulbs, red plastic stools along both sides, steam rising from steel pots, and hand-painted price boards.
+
+summary:
+[reference generation] The target video shows <Subject 1> walking through <Subject 2>, stopping at a dumpling stall, ordering in Mandarin, and receiving a paper bowl. The three-shot sequence keeps her identity and outfit from the reference photos and the lighting and layout of the market from <Picture 4>.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the mole below the outer corner of her left eye, the blunt collarbone-length black hair with an eyebrow-length fringe, the thin gold hoops, the cream cardigan worn open over a white T-shirt, and the short unpainted nails are retained.
+<Subject 2> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - the strings of warm yellow bulbs, the red plastic stools, the steaming steel pots, and the hand-painted price boards are retained.
+
+detailed_description:
+The target video is in a live-action, handheld street-documentary style with warm tungsten lighting, shallow depth of field, and a light film grain.
+[Shot 1] A medium tracking shot follows <Subject 1> from the front as she walks toward the camera down the center of <Subject 2>, the narrow night-market lane with strings of warm yellow bulbs overhead, red plastic stools lining both sides, and steam drifting across the frame from steel pots on the left. Her straight black hair with the eyebrow-length fringe sways slightly with each step, the thin gold hoops catch the bulb light, and the cream knit cardigan hangs open over her white T-shirt. The camera trucks backward with small amplitude at slow speed to keep her centered while passers-by cross behind her out of focus. She glances left and right at the stalls, slows down, and turns her head toward a stall on the left of frame. [Shot 2] At 00:03.500, the shot cuts to a medium two-shot from the side of the dumpling stall: <Subject 1> stands on the left of frame facing a stocky middle-aged vendor in a white apron on the right, a hand-painted board reading "鲜肉水饺 15元" hanging above the steaming pot between them, and this left-right arrangement is kept for the rest of the video. The mole below the outer corner of her left eye is clearly visible in the warm light as she leans in slightly. <Subject 1> (S1), with a clear, friendly voice and a light southern Mandarin accent, points at the board and says: <d>[Chinese] 老板，来一份水饺，多放点辣。</d> The vendor with a loud, gravelly voice (S2) nods and replies: <d>[Chinese] 好嘞，稍等！</d> He turns to the pot, lifts the lid in a burst of steam, and scoops dumplings into a paper bowl with a slotted ladle. [Shot 3] At 00:07.500, the shot cuts to a close-up of <Subject 1> from over the vendor's right shoulder, keeping her on the left of frame, as the paper bowl is handed up into the bottom of the frame and she takes it with both hands, her short unpainted nails visible on the rim. She breathes in the steam, her eyes narrow into a smile, and the camera pushes in with small amplitude at slow speed as she looks down at the bowl; behind her the yellow bulbs blur into soft round bokeh and the shot holds on her face until the end.
+
+overall_soundscape:
+A dense night-market ambience of overlapping distant chatter, sizzling oil, and a scooter passing somewhere behind the stalls continues throughout. Her footsteps scuff on the concrete lane, a ladle clangs against the steel pot, dumplings splash softly as they are scooped, and the paper bowl crinkles as it changes hands.
+
+non_diegetic_music:
+N/A

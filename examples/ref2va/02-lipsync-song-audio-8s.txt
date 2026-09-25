@@ -1,0 +1,22 @@
+subject_definitions:
+<Subject 1> is the female singer whose appearance comes from <Picture 1> and <Picture 2>: a shaved undercut with a long copper-red top swept to her right, a silver septum ring, a small black star tattooed on the left side of her neck just below the ear, a loose black satin shirt, and dark-red painted nails.
+<Subject 2> is the rehearsal-room environment in <Picture 3>, featuring dark acoustic foam walls, a single vintage silver microphone on a boom stand, and one bare warm bulb hanging on the right.
+<Audio 1> is the complete song excerpt reused as the target video's final audio track; its lead vocal line is performed on screen by <Subject 1> (S1).
+
+summary:
+[reference generation + audio reuse] The target video is a single-take music-video shot of <Subject 1> singing into the microphone in <Subject 2>, with <Audio 1> copied 1:1 as the full soundtrack and her lip movements synchronized to its vocal line.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - the shaved undercut with the copper-red top swept to her right, the silver septum ring, the black star tattoo on the left side of her neck below the ear, the loose black satin shirt, and the dark-red nails are retained.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the dark acoustic foam walls, the vintage silver microphone on a boom stand, and the single bare warm bulb on the right are retained.
+<Audio 1>: fully_copy - <Audio 1> is reused 1:1 as the target video's complete final audio track, including its vocals, instruments, and mix.
+
+detailed_description:
+The target video is in a moody, cinematic music-video style with a single warm practical light source, deep shadows, a shallow depth of field, and one slow continuous camera move.
+[Shot 1] A medium close-up frames <Subject 1> standing at the vintage silver microphone in <Subject 2>, the dark acoustic foam walls filling the background and the bare warm bulb hanging at the right edge of the frame so that its light rakes across the right side of her face and leaves the left side in soft shadow. Her copper-red hair falls to her right over the shaved undercut, the silver septum ring and the black star tattoo below her left ear catch faint highlights, and both hands with dark-red nails rest lightly on the microphone's shock mount. As <Audio 1> begins with its instrumental intro, she stands still with her eyes closed and her lips together, breathing slowly, while the camera arcs left with small amplitude at slow speed around the microphone stand and gradually reveals more of the lit side of her face. When the first vocal phrase of <Audio 1> enters at roughly the one-second mark, <Subject 1> (S1) leans into the microphone and sings its lead vocal with her lip movements matching every word and sustained note exactly: <d>[English] Hold the light a little longer, we are almost home.</d> On the sustained final word her brow tightens, her right hand slides a few centimeters down the stand, and she opens her eyes toward the lens. During the short instrumental gap that follows her mouth stays closed and she tilts her head back slightly, the bulb light sliding across the septum ring. When the second vocal phrase of <Audio 1> enters at roughly the four-and-a-half-second mark, <Subject 1> (S1) sings again in exact sync with the copied vocal: <d>[English] Count the miles in heartbeats, not in hours.</d> She holds the last note with her chin lifted, then closes her lips as the phrase ends. The camera continues its slow arc until the bulb sits directly behind her right shoulder and silhouettes the edge of her hair, and the shot holds there while the instrumental tail of <Audio 1> plays out to the final frame. Throughout the arc the tattoo stays on the left side of her neck, the hair part and septum ring stay in the same positions, and her mouth opens only on the sung phrases.
+
+overall_soundscape:
+Apart from the copied track, only a faint room tone from the foam-treated space and the soft creak of the boom stand when she leans on it are audible.
+
+non_diegetic_music:
+The instrumental layers of the copied <Audio 1> serve as the complete audience-only score at the track's own tempo, and no additional music is added.

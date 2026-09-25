@@ -1,0 +1,24 @@
+subject_definitions:
+<Subject 1> is the man in <Video 1>: short curly dark hair, black rectangular glasses, a trimmed beard, a navy crew-neck sweater, seated and speaking directly to the camera in a medium close-up with a small silver ring on his right index finger.
+<Subject 2> is the beach environment in <Picture 1>, featuring pale sand, gentle waves under a low orange sunset, a few palm silhouettes on the left, and a soft pink-to-orange gradient sky.
+<Video 1> is the source video for the target video edit.
+<Audio 1> is the synchronized audio track of <Video 1> and is reused in the target video.
+
+summary:
+[video editing + reference generation + audio reuse] The target video is an edited version of <Video 1>. <Subject 1> keeps his framing, gestures, timing, and speech, while the original indoor background is replaced by <Subject 2>, with the sunset light matched onto him and <Audio 1> kept 1:1 as the final audio track.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - the short curly dark hair, black rectangular glasses, trimmed beard, navy crew-neck sweater, the silver ring on his right index finger, and his seated position, gestures, and lip movements from <Video 1> are retained.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the pale sand, gentle sunset waves, palm silhouettes on the left, and the pink-to-orange gradient sky are used as the new background.
+<Video 1> (source video for the edit): partially_preserved - the shot length, camera framing, subject timing, and cut-free single-take structure are retained, while the original indoor wall and desk background are removed.
+<Audio 1>: fully_copy - <Audio 1> is reused 1:1 as the target video's complete final audio track.
+
+detailed_description:
+The target video is in a live-action, talking-head vlog style, matching the single-take medium close-up of <Video 1> but relit with warm low sunset light.
+[Shot 1] The shot begins from the first frame of <Video 1> with <Subject 1>, the man with short curly dark hair, black rectangular glasses, a trimmed beard, and a navy crew-neck sweater, seated at the center of the frame and facing the camera exactly as in the source. Everything behind him is replaced by <Subject 2>: pale sand stretches to gentle waves under a low orange sun, palm silhouettes stand at the left edge of the frame, and the sky fades from pink to orange. A warm orange rim light now catches the right side of his hair and glasses to match the sun, while the front of his face keeps the soft exposure of the source. His head movements, hand gestures, the silver ring on his right index finger, and his lip movements follow <Video 1> frame for frame, and the camera holds the same static framing as the source. <Subject 1> (S1), with the same voice preserved from <Audio 1>, speaks to the camera: <d>[English] Thanks for watching, and I'll see you next week.</d> He gives a small wave with his right hand at the end, as in the source, while the waves behind him roll in slowly and the palm fronds sway lightly in a light breeze.
+
+overall_soundscape:
+The complete original ambience and voice from <Audio 1> continue unchanged throughout the target video, and no new beach sounds are added.
+
+non_diegetic_music:
+N/A
