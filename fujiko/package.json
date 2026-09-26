@@ -1,0 +1,19 @@
+{
+  "name": "fujiko-paris-diorama",
+  "private": true,
+  "version": "1.0.0",
+  "description": "峰不二子 · 巴黎雨夜 —— three.js 三渲二微缩场景",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node scripts/finalize.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0",
+    "vite-plugin-singlefile": "^2.1.0"
+  }
+}
